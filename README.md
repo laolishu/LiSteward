@@ -113,7 +113,7 @@ Support
 -------
 If LiSteward helps you, you can support continued development with a one-time donation:
 
-![Donate](#file:wechat-qr.png)
+![Donate](/res/wechat-qr.png)
 
 Contributing
 ------------

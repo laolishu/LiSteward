@@ -113,7 +113,7 @@ go build -o LiSteward
 ----
 如果本项目对你有帮助，欢迎用小额赞助支持我们：
 
-![赞赏](#file:wechat-qr.png)
+![赞赏](/res/wechat-qr.png)
 
 参与贡献
 --------
