@@ -1,0 +1,27 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "LiSteward",
+  "outputfilename": "LiSteward",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "lfz",
+    "email": "lfzxs@qq.com"
+  },
+  "icon": "build/windows/icon.ico",
+  "windows": [
+    {
+      "label": "main",
+      "title": "李管家",
+      "width": 1280,
+      "height": 800,
+      "minWidth": 800,
+      "minHeight": 600,
+      "isStartHidden": false,
+      "frameless": false,
+      "fullscreen": false
+    }
+  ]
+}

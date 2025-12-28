@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "LiSteward"
+  },
+  "menu": {
+    "hosts": "Hosts Manager",
+    "settings": "Settings",
+    "node": "Node Manager"
+  },
+  "hosts": {
+    "title": "Hosts Manager",
+    "search": "Search IP or domain...",
+    "addEntry": "Add",
+    "domain": "Domain",
+    "ip": "IP Address",
+    "alternateIp": "Alternate IP",
+    "description": "Description (Optional)",
+    "status": "Status",
+    "operations": "Operations",
+    "swap": "Swap IPs",
+    "edit": "Edit",
+    "delete": "Delete",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "empty": "No Hosts entries",
+    "clickAdd": "Click the \"+ Add\" button above to create a new entry",
+    "saving": "Saving...",
+    "saved": "✓ All changes saved",
+    "unsaved": "● Unsaved changes",
+    "items": "items",
+    "entries": "entries",
+    "all": "All",
+    "reload": "Reload (from file)",
+    "apply": "Apply changes to Hosts file",
+    "index": "No.",
+    "remark": "Remark",
+    "loading": "Loading...",
+    "clickDisable": "Click to disable",
+    "clickEnable": "Click to enable",
+    "total": "Total",
+    "unsavedChanges": "Unsaved changes"
+  },
+  "settings": {
+    "title": "Settings",
+    "general": "General",
+    "language": "Language",
+    "languageSetting": "Language Settings",
+    "currentVersion": "Current Version",
+    "contactAuthor": "Contact Author",
+    "languageChange": "Interface language changed",
+    "profileScheme": "Profile Scheme",
+    "about": "About",
+    "officialWebsite": "Official Website",
+    "author": "Author",
+    "sponsor": "WeChat Sponsor",
+    "sponsorTip": "Scan the QR code below to support the developer in maintaining this project",
+    "autoStart": "Start on Boot"
+  },
+  "dialog": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "add": "Add",
+    "edit": "Edit Entry",
+    "editEntry": "Edit Hosts Entry",
+    "delete": "Delete",
+    "confirm": "OK",
+    "applySaveConfirm": "Are you sure you want to save the changes from the cache to the Hosts file?",
+    "reloadWithoutSave": "You have unsaved changes. Are you sure you want to discard them?",
+    "switchProfileUnsaved": "You have unsaved changes. Switching profiles will discard these changes. Are you sure you want to continue?",
+    "switchProfileConfirm": "Are you sure you want to switch to profile \"{name}\"? This will replace the current configuration.",
+    "deleteProfileConfirm": "Are you sure you want to delete the profile \"{name}\"?",
+    "deleteEntryConfirm": "Are you sure you want to delete this entry?",
+    "restoreBackupConfirm": "Are you sure you want to restore this backup? The current configuration will be overwritten.",
+    "saveHostsConfirm": "Are you sure you want to save to the system Hosts file? A backup will be created automatically."
+  },
+  "message": {
+    "success": "Operation successful",
+    "error": "Operation failed",
+    "confirm": "Are you sure you want to delete?"
+  },
+  "profile": {
+    "saveAs": "Save Profile Scheme",
+    "rename": "Rename Profile Scheme",
+    "backups": "Backup History",
+    "restore": "Restore",
+    "scheme": "Profile Scheme",
+    "inputName": "Enter profile name (e.g.: Development)",
+    "example": "e.g.: 192.168.1.100",
+    "exampleEnv": "e.g.: Production"
+  }
+  ,
+  "node": {
+    "title": "Node Manager",
+    "detect": "Detect nvm",
+    "installNvm": "Install nvm",
+    "nvmDir": "NVM Root Directory",
+    "versions": "Installed Versions",
+    "use": "Use",
+    "uninstall": "Uninstall",
+    "current": "Current",
+    "nvmVersion": "NVM Version",
+    "nodeRepository": "Node Repository",
+    "installButton": "Install"
+  }
+}

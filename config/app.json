@@ -1,0 +1,18 @@
+{
+  "author": {
+    "email": "lfzxs@hotmail.com",
+    "name": "lfz"
+  },
+  "defaultWindow": {
+    "height": 800,
+    "minHeight": 600,
+    "minWidth": 800,
+    "width": 1280
+  },
+  "description": "Hosts 文件管理工具",
+  "language": "zh-CN",
+  "productName": "李管家",
+  "productNameEn": "LiSteward",
+  "version": "0.1.0",
+  "website": "https://github.com/example/LiSteward"
+}

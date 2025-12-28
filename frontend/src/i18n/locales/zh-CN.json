@@ -1,0 +1,105 @@
+{
+  "app": {
+    "name": "李管家"
+  },
+  "menu": {
+    "hosts": "Hosts 管理",
+    "settings": "设置",
+    "node": "Node 管理"
+  },
+  "hosts": {
+    "title": "Hosts 管理",
+    "search": "搜索 IP 或域名...",
+    "addEntry": "添加",
+    "domain": "域名",
+    "ip": "IP 地址",
+    "alternateIp": "备用 IP",
+    "description": "描述（可选）",
+    "status": "状态",
+    "operations": "操作",
+    "swap": "交换 IP",
+    "edit": "编辑",
+    "delete": "删除",
+    "enabled": "已启用",
+    "disabled": "已禁用",
+    "empty": "暂无 Hosts 条目",
+    "clickAdd": "点击上方\"+ 添加\"按钮创建新条目",
+    "saving": "保存中...",
+    "saved": "✓ 所有更改已保存",
+    "unsaved": "● 未保存的更改",
+    "items": "条目",
+    "entries": "条",
+    "all": "全部",
+    "reload": "刷新（从文件重新加载）",
+    "apply": "应用更改到 Hosts 文件",
+    "index": "序号",
+    "remark": "备注",
+    "loading": "加载中...",
+    "clickDisable": "点击禁用",
+    "clickEnable": "点击启用",
+    "total": "共",
+    "unsavedChanges": "未保存的更改"
+  },
+  "settings": {
+    "title": "设置",
+    "general": "通用设置",
+    "language": "语言",
+    "languageSetting": "语言设置",
+    "currentVersion": "当前版本",
+    "contactAuthor": "联系作者",
+    "languageChange": "界面语言已切换",
+    "profileScheme": "配置方案",
+    "about": "关于",
+    "officialWebsite": "官方网站",
+    "author": "作者",
+    "sponsor": "微信赞赏",
+    "sponsorTip": "扫描下方二维码，支持开发者继续维护此项目",
+    "autoStart": "开机自启动"
+  },
+  "dialog": {
+    "cancel": "取消",
+    "save": "保存",
+    "add": "添加",
+    "edit": "编辑条目",
+    "editEntry": "编辑 Hosts 条目",
+    "delete": "删除",
+    "confirm": "确定",
+    "applySaveConfirm": "确定要将缓存中的更改保存到 Hosts 文件吗？",
+    "reloadWithoutSave": "您有未保存的更改，确定要放弃吗？",
+    "switchProfileUnsaved": "当前有未保存的更改，切换方案将放弃这些更改。确定要继续吗？",
+    "switchProfileConfirm": "确定要切换到方案 \"{name}\" 吗？这将替换当前配置。",
+    "deleteProfileConfirm": "确定要删除方案 \"{name}\" 吗？",
+    "deleteEntryConfirm": "确定要删除此条目吗？",
+    "restoreBackupConfirm": "确定要恢复此备份吗？当前配置将被覆盖。",
+    "saveHostsConfirm": "确定要保存到系统 Hosts 文件吗？将自动创建备份。"
+  },
+  "message": {
+    "success": "操作成功",
+    "error": "操作失败",
+    "confirm": "确定要删除吗？"
+  },
+  "profile": {
+    "saveAs": "保存配置方案",
+    "rename": "重命名配置方案",
+    "backups": "备份历史",
+    "restore": "恢复",
+    "scheme": "配置方案",
+    "inputName": "输入方案名称（如：开发环境）",
+    "example": "例如: 192.168.1.100",
+    "exampleEnv": "例如: 生产环境"
+  }
+  ,
+  "node": {
+    "title": "Node 管理",
+    "detect": "检测 nvm",
+    "installNvm": "安装 nvm",
+    "nvmDir": "NVM 根目录",
+    "versions": "已安装版本",
+    "use": "使用",
+    "uninstall": "卸载",
+    "current": "当前",
+    "nvmVersion": "当前版本",
+    "nodeRepository": "Node 仓库",
+    "installButton": "安装"
+  }
+}
